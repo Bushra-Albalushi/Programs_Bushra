@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36017.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Quiz App", "Programs\Simple Quiz App.csproj", "{16B07E25-3AE3-4DF2-AE81-0FAF86D9755B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank system", "Bank system\Bank system.csproj", "{6D3522A5-3CFB-49B2-B33A-678E12E533D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B07E25-3AE3-4DF2-AE81-0FAF86D9755B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B07E25-3AE3-4DF2-AE81-0FAF86D9755B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B07E25-3AE3-4DF2-AE81-0FAF86D9755B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B07E25-3AE3-4DF2-AE81-0FAF86D9755B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D3522A5-3CFB-49B2-B33A-678E12E533D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D3522A5-3CFB-49B2-B33A-678E12E533D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D3522A5-3CFB-49B2-B33A-678E12E533D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D3522A5-3CFB-49B2-B33A-678E12E533D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B930F2DF-7893-4ACC-B3EB-11F6AC2220BD}
+	EndGlobalSection
+EndGlobal
